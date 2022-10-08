@@ -97,7 +97,10 @@ ${pickbadge()}
     }) 
 
 // // TODO: Create a function to initialize app
-// function init() {}
-
+// function init() {
+//     inquirer.prompt()
+//     .then ((response))
+// }
+// var init = () => {}
 // // Function call to initialize app
 // init();
