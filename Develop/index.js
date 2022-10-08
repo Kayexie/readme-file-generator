@@ -28,7 +28,7 @@ inquirer
       choices: ['MIT', 'IBM', 'Mozilla']
       },
       { type: 'contribution',
-      message: 'PlePlease enter your project contribution information',
+      message: 'Please enter your project contribution information',
       name: 'contribution',
       },
       { type: 'test',
@@ -92,6 +92,7 @@ ${pickbadge()}
 
     fs.writeFile('README.md', readMe, (err) => {
     err? console.log(err) : console.log('Succefully generated a README file!') 
+
       })
     
     }) 

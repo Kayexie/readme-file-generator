@@ -2,7 +2,7 @@
 # Readme File Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-  This readme file generator allow you to create a high-quality README file through command line, which is easy and convenience. 
+     This readme file generator allow you to create a high-quality README file through command line, which is easy and convenience.
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
